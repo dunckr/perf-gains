@@ -1,6 +1,11 @@
 ##Perf Gains
 
-Gulp and Grunt tasks for quick performance gains
+Collection of tasks for quick performance gains.
+
+Including:
+
++ Grunt
++ Gulp
 
 ###Reference
 
