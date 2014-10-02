@@ -6,8 +6,8 @@ Collection of tasks for quick performance gains.
 
 Including:
 
-+ ![Grunt](https://github.com/dunckr/perf-gains/blob/master/Gruntfile.js)
-+ ![Gulp](https://github.com/dunckr/perf-gains/blob/master/Gulpfile.js)
++ [Grunt](https://github.com/dunckr/perf-gains/blob/master/Gruntfile.js)
++ [Gulp](https://github.com/dunckr/perf-gains/blob/master/Gulpfile.js)
 
 ###Reference
 
