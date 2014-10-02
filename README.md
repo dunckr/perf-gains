@@ -1,11 +1,13 @@
 ##Perf Gains
 
+![Gains](http://dunckr.com/imgs/bar.png)
+
 Collection of tasks for quick performance gains.
 
 Including:
 
-+ Grunt
-+ Gulp
++ ![Grunt](https://github.com/dunckr/perf-gains/blob/master/Gruntfile.js)
++ ![Gulp](https://github.com/dunckr/perf-gains/blob/master/Gulpfile.js)
 
 ###Reference
 
